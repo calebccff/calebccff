@@ -4,6 +4,6 @@ I write code that solves problems, I mostly work on embedded Linux. I spend a lo
 
 Seriously, this stuff is so fricking cool!
 
-![github stats](https://github-readme-stats.vercel.app/api?username=calebccff&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=calebccff&show_icons=true&theme=dark)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/calebccff)](https://twitter.com/calebccff)
