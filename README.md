@@ -1,6 +1,6 @@
 ## Hi, I'm caleb
 
-I write code that solves problems, I mostly work on embedded Linux. I spend a lot of my time working on [postmarketOS](https://postmarketos.org) for the [OnePlus 6](https://github.com/calebccff/pmos-oneplus6) and a few other devices. I want to make phones usable beyond the manufacturers lifespan. I also work on whatever else takes my interest...
+I write code that solves problems, I mostly work on embedded Linux. I spend a lot of my time working on [postmarketOS](https://postmarketos.org) for the [OnePlus 6](https://wiki.postmarketos.org/wiki/OnePlus_6_(oneplus-enchilada)) and a few other devices. I want to make phones usable beyond the manufacturers lifespan. I also work on whatever else takes my interest...
 
 * A CT head scan viewer for one of my university modules: https://github.com/calebccff/cthead-viewer
 * Porting Linux to the ipod6g (iPod Classic): https://github.com/ipodclassic-mainline
