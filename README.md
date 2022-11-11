@@ -10,7 +10,7 @@ I work in most of the computer stack (with the exception of web :P), here are a 
 * A new 6502 emulator written in C++, applying everything I've learnt in the 3 years since dNES :D: https://git.sr.ht/~calebccff/cnes
 * (WIP) An open source/OSHW PCB I designed to let you make a board farm out of phones: https://git.sr.ht/~calebccff/rptr-pcb
 
-You can keep up with me or reach out via Twitter or Mastadon:
+You can keep up with me or reach out via Twitter or Mastodon:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/calebccff)](https://twitter.com/calebccff)
 <a rel="me" href="https://fosstodon.org/@calebccff">![Mastodon](https://img.shields.io/mastodon/follow/337795?domain=https%3A%2F%2Ffosstodon.org&style=social)</a>
 
